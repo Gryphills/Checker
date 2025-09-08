@@ -1,0 +1,25 @@
+.main {
+   padding-right: 30%;
+   padding-left: 30%;
+   padding-bottom: 30px;
+   background-color: #9cd6c2;
+}
+
+body {
+   background: none !important;
+   height: 100%;
+   margin: 20px;
+   padding: 0;
+   font-family: Arial;
+   font-weight: bold;
+}
+h1,
+h2 {
+   text-align: center;
+}
+h1 {
+   font-size: 2em;
+}
+h3 {
+   margin-top: 20px;
+}
